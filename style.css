@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    font-family: Inter;
+}
+
+.two {}
+
+.one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #141414;
+}
+
+.three {
+    height: 70vh;
+    width: 20vw;
+    background-color: #1F1F1F;
+    /* justify-content: center; */
+    /* align-items: center; */
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+
+
+}
+
+.pic {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 15px;
+}
+.picture {
+    align-self: center;
+    
+}
+.jes {
+    align-self: center;
+    color: white;
+   
+}
+
+.lon {
+    align-self: center;
+    color: #DAFB47;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.frot {
+    align-self: center;
+    color: white;
+    margin: 10px;
+    font-size: 13px;
+}
+
+.text {
+    font-size: 13px;
+}
+
+.git {
+    height: 6vh;
+    width: 17vw;
+    margin: 5px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    border: 0;
+    font-size: 12px;
+}
+
+.fron {
+    height: 6vh;
+    width: 17vw;
+    margin: 5px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    border: 0;
+    font-size: 12px;
+}
+
+.lin {
+    height: 6vh;
+    width: 17vw;
+    margin: 5px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    border: 0;
+    font-size: 12px;
+}
+
+.twit {
+    height: 6vh;
+    width: 17vw;
+    margin: 5px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    border: 0;
+    font-size: 12px;
+}
+
+.ins {
+    height: 6vh;
+    width: 17vw;
+    margin: 5px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: #333333;
+    color: white;
+    border: 0;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+button:hover{
+    background-color:#C4F82A;
+    cursor: pointer;
+    color: #141414;
+  }
